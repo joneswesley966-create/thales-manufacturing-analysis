@@ -3,7 +3,7 @@
 **Research Paper — Unified Mentor Internship Project**
 **Author:** Jones
 **Dataset:** Thales Group Manufacturing (Thales_Group_Manufacturing.csv)
-**Date:** May 2025
+**Date:** May 2026
 
 ---
 
@@ -227,4 +227,4 @@ This analysis forms the critical first step before predictive maintenance, effic
 ---
 
 *Submitted as part of the Unified Mentor Data Analyst Internship Program.*
-*Author: Jones | Date: May 2025*
+*Author: Jones | Date: May 2026*
