@@ -87,5 +87,5 @@ Thales Group's 6G-enabled smart factory generates the data needed to achieve wor
 
 ---
 
-*Unified Mentor Data Analyst Internship | Jones | May 2025*
+*Unified Mentor Data Analyst Internship | Jones | May 2026*
 *For technical detail, refer to the full Research Paper and Streamlit Dashboard.*
