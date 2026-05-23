@@ -3,7 +3,7 @@
 ### Thales Group | 6G-Enabled Smart Factory Initiative
 
 **Prepared by:** Jones, Data Analyst Intern — Unified Mentor
-**Date:** May 2025
+**Date:** May 2026
 **Audience:** Government Stakeholders & Industrial Policy Leaders
 
 ---
